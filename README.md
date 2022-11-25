@@ -409,7 +409,7 @@ class FilledRectangle : Rectangle() {
 
 
 <details>
-<summary><font size="5">Data classed</font></summary>
+<summary><font size="5">Data classe</font></summary>
 
 -  In Kotlin, these are called data classes and are marked with data: main purpose is to hold data
 ```
